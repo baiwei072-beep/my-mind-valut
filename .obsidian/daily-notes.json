@@ -1,0 +1,7 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "每日复盘",
+  "template": "每日复盘/_模板",
+  "autorun": true,
+  "format": "YYYY.M.D"
+}
