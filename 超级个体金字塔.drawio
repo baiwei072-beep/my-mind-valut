@@ -1,0 +1,65 @@
+<mxfile host="app.diagrams.net" modified="2026-05-12T00:00:00.000Z" agent="Codex" version="24.7.17" type="device">
+  <diagram id="super-individual-pyramid" name="超级个体金字塔">
+    <mxGraphModel dx="1200" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="title" value="超级个体金字塔&#xa;从“证明自己”到“清楚地判断和行动”" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1;fontColor=#1F2937;" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="800" height="70" as="geometry" />
+        </mxCell>
+
+        <mxCell id="apex" value="顶层目标&#xa;冷静 · 果断 · 有判断力 · 有领导力&#xa;别人和我协作时，事情变得更清楚、更稳、更可推进" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1E3A5F;strokeColor=#0F2438;fontColor=#FFFFFF;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="400" height="120" as="geometry" />
+        </mxCell>
+
+        <mxCell id="output" value="对外输出层&#xa;更清楚的沟通｜更稳的决策｜更可信的协作&#xa;同步四句话：确认了什么 / 未确认什么 / 风险是什么 / 下一步谁做什么" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#256D85;strokeColor=#164E63;fontColor=#FFFFFF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="560" height="120" as="geometry" />
+        </mxCell>
+
+        <mxCell id="ability" value="能力层&#xa;冷静：事实 / 推测 / 情绪分开&#xa;果断：阶段性选择 + 最小下一步&#xa;判断力：重要性 / 紧急性 / 代价&#xa;领导力：让目标、风险、下一步变清楚" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2F855A;strokeColor=#22543D;fontColor=#FFFFFF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="740" height="150" as="geometry" />
+        </mxCell>
+
+        <mxCell id="training" value="每日训练系统&#xa;真实场景：情绪 / 沟通 / 决策 / 领导&#xa;复盘输出：明天，如果遇到 X，我会做 Y&#xa;证据库：每日复盘 / 内省记录 / 真实案例" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D97706;strokeColor=#92400E;fontColor=#FFFFFF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="920" height="140" as="geometry" />
+        </mxCell>
+
+        <mxCell id="base" value="身体与注意力底盘&#xa;睡眠｜冥想｜晨练｜步数｜阅读｜英语输入&#xa;底盘不稳时，判断力会先下降" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7C3AED;strokeColor=#5B21B6;fontColor=#FFFFFF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="150" y="730" width="1100" height="130" as="geometry" />
+        </mxCell>
+
+        <mxCell id="rootLayer" value="最底层根基&#xa;根问题：价值感只能从外部取得&#xa;第一触发器：在保护什么？&#xa;核心状态：够了，不靠证明也可以存在" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111827;strokeColor=#000000;fontColor=#FFFFFF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="880" width="1280" height="140" as="geometry" />
+        </mxCell>
+
+        <mxCell id="leftNote" value="常见偏移&#xa;轻蔑：保护优势地位&#xa;夸大：保护不普通的形象&#xa;急着响应：保护客户信任&#xa;写很多笔记：保护正在进步的感觉" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#FDBA74;fontColor=#7C2D12;fontSize=14;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="300" height="190" as="geometry" />
+        </mxCell>
+
+        <mxCell id="rightNote" value="决策路线&#xa;目标是什么&#xa;事实是什么&#xa;哪些只是推测&#xa;我在怕什么&#xa;真实紧急程度&#xa;选项的收益和代价&#xa;最小下一步和对外同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ECFDF5;strokeColor=#6EE7B7;fontColor=#064E3B;fontSize=14;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="150" width="300" height="230" as="geometry" />
+        </mxCell>
+
+        <mxCell id="arrow1" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#374151;" edge="1" parent="1" source="rootLayer" target="base">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="880" as="sourcePoint" />
+            <mxPoint x="700" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow2" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#374151;" edge="1" parent="1" source="base" target="training">
+          <mxGeometry width="50" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#374151;" edge="1" parent="1" source="training" target="ability">
+          <mxGeometry width="50" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow4" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#374151;" edge="1" parent="1" source="ability" target="output">
+          <mxGeometry width="50" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow5" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#374151;" edge="1" parent="1" source="output" target="apex">
+          <mxGeometry width="50" height="50" relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
