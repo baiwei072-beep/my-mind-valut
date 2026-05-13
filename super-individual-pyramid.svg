@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1100" viewBox="0 0 1400 1100">
+  <rect width="1400" height="1100" fill="#F8FAFC"/>
+  <text x="700" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2937">超级个体金字塔</text>
+  <text x="700" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#475569">从“证明自己”到“清楚地判断和行动”</text>
+
+  <polygon points="500,130 900,130 900,245 500,245" fill="#1E3A5F" stroke="#0F2438" stroke-width="2"/>
+  <text x="700" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">顶层目标</text>
+  <text x="700" y="194" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#FFFFFF">冷静 · 果断 · 有判断力 · 有领导力 · 能站到战略层思考</text>
+  <text x="700" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#E5E7EB">别人和我协作时，事情变得更清楚、更稳、更可推进</text>
+
+  <polygon points="420,270 980,270 980,390 420,390" fill="#256D85" stroke="#164E63" stroke-width="2"/>
+  <text x="700" y="304" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">对外输出层</text>
+  <text x="700" y="334" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">更清楚的沟通｜更稳的决策｜更可信的协作｜更高层的业务判断</text>
+  <text x="700" y="364" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#E0F2FE">同步四句话：确认了什么 / 未确认什么 / 风险是什么 / 下一步谁做什么</text>
+
+  <polygon points="330,420 1070,420 1070,570 330,570" fill="#2F855A" stroke="#22543D" stroke-width="2"/>
+  <text x="700" y="452" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">能力层</text>
+  <text x="700" y="481" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#FFFFFF">冷静：事实 / 推测 / 情绪分开</text>
+  <text x="700" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#FFFFFF">果断：阶段性选择 + 最小下一步　判断力：重要性 / 紧急性 / 代价</text>
+  <text x="700" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#FFFFFF">领导力：让目标、风险、下一步变清楚　战略思考：目标 / 指标 / 业务结构优先</text>
+
+  <polygon points="240,600 1160,600 1160,735 240,735" fill="#D97706" stroke="#92400E" stroke-width="2"/>
+  <text x="700" y="633" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">每日训练系统</text>
+  <text x="700" y="665" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">真实场景：情绪 / 沟通 / 决策 / 领导</text>
+  <text x="700" y="694" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">复盘输出：明天，如果遇到 X，我会做 Y</text>
+  <text x="700" y="722" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#FFF7ED">证据库：每日复盘 / 内省记录 / 真实案例</text>
+
+  <polygon points="150,760 1250,760 1250,890 150,890" fill="#7C3AED" stroke="#5B21B6" stroke-width="2"/>
+  <text x="700" y="795" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">身体与注意力底盘</text>
+  <text x="700" y="828" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">睡眠｜冥想｜晨练｜步数｜阅读｜英语输入</text>
+  <text x="700" y="858" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#EDE9FE">底盘不稳时，判断力会先下降</text>
+
+  <polygon points="60,920 1340,920 1340,1040 60,1040" fill="#111827" stroke="#000000" stroke-width="2"/>
+  <text x="700" y="954" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">最底层根基</text>
+  <text x="700" y="984" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">根问题：价值感只能从外部取得　第一触发器：在保护什么？</text>
+  <text x="700" y="1014" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">核心状态：够了，不靠证明也可以存在</text>
+
+  <rect x="60" y="150" width="300" height="190" rx="8" fill="#FFF7ED" stroke="#FDBA74"/>
+  <text x="80" y="180" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#7C2D12">常见偏移</text>
+  <text x="80" y="212" font-family="Arial, sans-serif" font-size="14" fill="#7C2D12">轻蔑：保护优势地位</text>
+  <text x="80" y="240" font-family="Arial, sans-serif" font-size="14" fill="#7C2D12">夸大：保护不普通的形象</text>
+  <text x="80" y="268" font-family="Arial, sans-serif" font-size="14" fill="#7C2D12">急着响应：保护客户信任</text>
+  <text x="80" y="296" font-family="Arial, sans-serif" font-size="14" fill="#7C2D12">写很多笔记：保护正在进步的感觉</text>
+
+  <rect x="1040" y="150" width="300" height="230" rx="8" fill="#ECFDF5" stroke="#6EE7B7"/>
+  <text x="1060" y="180" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#064E3B">决策路线</text>
+  <text x="1060" y="212" font-family="Arial, sans-serif" font-size="14" fill="#064E3B">目标是什么</text>
+  <text x="1060" y="238" font-family="Arial, sans-serif" font-size="14" fill="#064E3B">事实是什么，哪些只是推测</text>
+  <text x="1060" y="264" font-family="Arial, sans-serif" font-size="14" fill="#064E3B">我在怕什么</text>
+  <text x="1060" y="290" font-family="Arial, sans-serif" font-size="14" fill="#064E3B">真实紧急程度</text>
+  <text x="1060" y="316" font-family="Arial, sans-serif" font-size="14" fill="#064E3B">选项的收益和代价</text>
+  <text x="1060" y="342" font-family="Arial, sans-serif" font-size="14" fill="#064E3B">最小下一步和对外同步</text>
+</svg>

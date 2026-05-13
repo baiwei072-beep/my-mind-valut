@@ -9,15 +9,15 @@
           <mxGeometry x="300" y="30" width="800" height="70" as="geometry" />
         </mxCell>
 
-        <mxCell id="apex" value="顶层目标&#xa;冷静 · 果断 · 有判断力 · 有领导力&#xa;别人和我协作时，事情变得更清楚、更稳、更可推进" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1E3A5F;strokeColor=#0F2438;fontColor=#FFFFFF;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;spacing=10;" vertex="1" parent="1">
+        <mxCell id="apex" value="顶层目标&#xa;冷静 · 果断 · 有判断力 · 有领导力 · 能站到战略层思考&#xa;别人和我协作时，事情变得更清楚、更稳、更可推进" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1E3A5F;strokeColor=#0F2438;fontColor=#FFFFFF;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="500" y="120" width="400" height="120" as="geometry" />
         </mxCell>
 
-        <mxCell id="output" value="对外输出层&#xa;更清楚的沟通｜更稳的决策｜更可信的协作&#xa;同步四句话：确认了什么 / 未确认什么 / 风险是什么 / 下一步谁做什么" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#256D85;strokeColor=#164E63;fontColor=#FFFFFF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=10;" vertex="1" parent="1">
+        <mxCell id="output" value="对外输出层&#xa;更清楚的沟通｜更稳的决策｜更可信的协作｜更高层的业务判断&#xa;同步四句话：确认了什么 / 未确认什么 / 风险是什么 / 下一步谁做什么" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#256D85;strokeColor=#164E63;fontColor=#FFFFFF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="420" y="260" width="560" height="120" as="geometry" />
         </mxCell>
 
-        <mxCell id="ability" value="能力层&#xa;冷静：事实 / 推测 / 情绪分开&#xa;果断：阶段性选择 + 最小下一步&#xa;判断力：重要性 / 紧急性 / 代价&#xa;领导力：让目标、风险、下一步变清楚" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2F855A;strokeColor=#22543D;fontColor=#FFFFFF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=10;" vertex="1" parent="1">
+        <mxCell id="ability" value="能力层&#xa;冷静：事实 / 推测 / 情绪分开&#xa;果断：阶段性选择 + 最小下一步&#xa;判断力：重要性 / 紧急性 / 代价&#xa;领导力：让目标、风险、下一步变清楚&#xa;战略思考：目标 / 指标 / 业务结构优先" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2F855A;strokeColor=#22543D;fontColor=#FFFFFF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="330" y="400" width="740" height="150" as="geometry" />
         </mxCell>
 

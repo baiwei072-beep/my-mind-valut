@@ -1,0 +1,30 @@
+<mxfile host="app.diagrams.net" modified="2026-05-13T00:00:00.000Z" agent="Codex" version="24.7.17" type="device">
+  <diagram id="decision-thinking-route" name="决策思考路线">
+    <mxGraphModel dx="1400" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="760" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="title" value="决策思考路线&#xa;目的：把焦虑里的反应，变成事实、判断、选择和同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontStyle=1;fontColor=#111827;" vertex="1" parent="1">
+          <mxGeometry x="300" y="25" width="800" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="n1" value="1. 卡住的决策&#xa;我到底要决定什么？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#111827;strokeColor=#111827;fontColor=#FFFFFF;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="70" y="150" width="240" height="95" as="geometry"/></mxCell>
+        <mxCell id="n2" value="2. 目标&#xa;真正要达成什么？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1E3A5F;strokeColor=#1E3A5F;fontColor=#FFFFFF;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="390" y="150" width="240" height="95" as="geometry"/></mxCell>
+        <mxCell id="n3" value="3. 事实&#xa;哪些已经确认？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#256D85;strokeColor=#256D85;fontColor=#FFFFFF;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="710" y="150" width="240" height="95" as="geometry"/></mxCell>
+        <mxCell id="n4" value="4. 推测&#xa;哪些还没有证据？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2F855A;strokeColor=#2F855A;fontColor=#FFFFFF;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="1030" y="150" width="240" height="95" as="geometry"/></mxCell>
+        <mxCell id="n5" value="5. 恐惧&#xa;我在保护什么？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D97706;strokeColor=#D97706;fontColor=#FFFFFF;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="1030" y="360" width="240" height="95" as="geometry"/></mxCell>
+        <mxCell id="n6" value="6. 紧急度&#xa;今天 / 明天 / 排期？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C3AED;strokeColor=#7C3AED;fontColor=#FFFFFF;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="710" y="360" width="240" height="95" as="geometry"/></mxCell>
+        <mxCell id="n7" value="7. 选项&#xa;收益、代价、最大风险" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BE123C;strokeColor=#BE123C;fontColor=#FFFFFF;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="390" y="360" width="240" height="95" as="geometry"/></mxCell>
+        <mxCell id="n8" value="8. 选择&#xa;最稳妥的一步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0F766E;strokeColor=#0F766E;fontColor=#FFFFFF;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="70" y="360" width="240" height="95" as="geometry"/></mxCell>
+        <mxCell id="n9" value="9. 同步&#xa;确认了什么 / 未确认什么 / 风险是什么 / 下一步谁在什么时候做什么" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#334155;strokeColor=#334155;fontColor=#FFFFFF;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1"><mxGeometry x="390" y="580" width="620" height="95" as="geometry"/></mxCell>
+        <mxCell id="e12" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#374151;" edge="1" parent="1" source="n1" target="n2"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e23" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#374151;" edge="1" parent="1" source="n2" target="n3"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e34" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#374151;" edge="1" parent="1" source="n3" target="n4"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e45" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#374151;" edge="1" parent="1" source="n4" target="n5"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e56" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#374151;" edge="1" parent="1" source="n5" target="n6"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e67" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#374151;" edge="1" parent="1" source="n6" target="n7"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e78" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#374151;" edge="1" parent="1" source="n7" target="n8"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e89" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#374151;" edge="1" parent="1" source="n8" target="n9"><mxGeometry relative="1" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
