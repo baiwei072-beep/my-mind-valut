@@ -11,10 +11,14 @@
             "id": "5b5fe68f582421fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "生活系统/名字备选.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "名字备选"
             }
           }
         ]
@@ -165,6 +169,7 @@
   },
   "active": "5b5fe68f582421fa",
   "lastOpenFiles": [
+    "2026.5.23.md",
     "2026.5.21.md",
     "每日复盘/每日记录/2026.5.21.md",
     "2026.5.19.md",
@@ -192,7 +197,6 @@
     "每日复盘/_模板.md",
     "英语/英语学习计划 C1.md",
     "读书笔记/2026.5.11-The Inner Game of Tennis.md",
-    "读书笔记/2026.5.12-The Inner Game of Tennis.md",
     "超级个体金字塔.drawio",
     "super-individual-pyramid.drawio",
     "随笔",
