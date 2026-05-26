@@ -11,14 +11,10 @@
             "id": "1f62e7991d74fc18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "内省/2026-05-09-从轻蔑到自我价值.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-09-从轻蔑到自我价值"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -184,8 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65d8e49159fd40ea",
+  "active": "1f62e7991d74fc18",
   "lastOpenFiles": [
+    "内省/影响与被影响.md",
+    "内省/表达与专注.md",
+    "内省/2026-05-09-从轻蔑到自我价值.md",
+    "2026-05-26.md",
     "2026.5.26.md",
     "每日复盘/Week 1/2026.5.26.md",
     "每日复盘/2026.5.26.md",
@@ -209,11 +209,7 @@
     "每日复盘/Week 1/2026.5.23.md",
     "每日复盘/Week 1/2026.5.22.md",
     "每日复盘/Week 1/2026.5.21.md",
-    "每日复盘/Week 1/2026.5.20.md",
-    "每日复盘/Week 1/2026.5.19.md",
-    "每日复盘/Week 1/2026.5.18.md",
     "每日复盘/Week 1",
-    "每日复盘/2026.5.24.md",
     "每日复盘/每日记录",
     "系统/超级个体金字塔.drawio",
     "系统/super-individual-pyramid.svg",
