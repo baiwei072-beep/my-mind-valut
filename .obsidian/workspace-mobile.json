@@ -11,14 +11,10 @@
             "id": "5b5fe68f582421fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-05-26.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-05-26"
+              "title": "New tab"
             }
           }
         ]
@@ -163,11 +159,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "5b5fe68f582421fa",
   "lastOpenFiles": [
+    "每日复盘/Week 1/2026.5.30.md",
     "2026.5.26.md",
     "2026-05-26.md",
     "每日复盘/Week 1/2026.5.24-week1.md",
@@ -195,7 +193,6 @@
     "每日复盘/2026.5.13.md",
     "每日复盘/2026.5.14.md",
     "读书笔记/2026.5.14-The Inner Game of Tennis.md",
-    "家庭/名字备选.md",
     "超级个体金字塔.drawio",
     "super-individual-pyramid.drawio",
     "随笔",
